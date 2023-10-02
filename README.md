@@ -1,4 +1,4 @@
-![Video](https://github.com/Neon-20/rust-http-server/assets/55043383/b72eed0c-8238-4648-bd5d-36f91d5baf84)
+![Video](https://youtu.be/Qf7aRSdWo1Q)
 
 
 # Rust HTTP Server
