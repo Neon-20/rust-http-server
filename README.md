@@ -29,6 +29,8 @@ To get started, follow these simple steps:
 3. 🚀 **Run the Server**:
    ```sh
    cargo run
+   
+**Try it out yourself**
 
    
 
