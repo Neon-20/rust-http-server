@@ -1,4 +1,5 @@
-![Rust](https://youtu.be/Qf7aRSdWo1Q)
+[![Watch the video](https://img.youtube.com/vi/Qf7aRSdWo1Q/0.jpg)](https://www.youtube.com/watch?v=Qf7aRSdWo1Q)
+
 
 # Rust HTTP Server
 
