@@ -32,7 +32,7 @@ To get started, follow these simple steps:
 
    ```bash
    git clone https://github.com/Neon-20/rust-http-server.git
-2. **Build and run the project 🏗️ **
+2. **Build and run the project 🏗️**
    ```sh
    cargo build
    cargo run
