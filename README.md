@@ -25,15 +25,19 @@ To get started, follow these simple steps:
 
    ```sh
    curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-2. 🏗️ **Build the Project**:
+   
+**Run the Project Yourself**
+1. **Clone the Project**
+   To get started, clone the project repository to your local machine.
 
+   ```bash
+   git clone https://github.com/Neon-20/rust-http-server.git
+2. **Build and run the project 🏗️ **
    ```sh
    cargo build
-3. 🚀 **Run the Server**:
-   ```sh
    cargo run
-   
-**Try it out yourself**
+3. **Access it at '127.0.0.1:7878'**.
+
 
    
 
